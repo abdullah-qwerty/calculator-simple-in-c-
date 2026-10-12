@@ -1,2 +1,3 @@
-# calculator-simple-in-c-
-its a simple cal
+# CodeAlpha_Calculator Program
+its a simple calculator
+
